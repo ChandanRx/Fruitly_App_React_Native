@@ -34,7 +34,7 @@ export default function FruitList() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>🍉 Funky Fruits</Text>
+      <Text style={styles.title}>🍉 Fruits</Text>
 
       <FlatList
         data={fruits}
